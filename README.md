@@ -2,4 +2,4 @@
 Codes for the transformation of MD trajectories
 # Happy Energy landscape plotting!
 
-![FEL Plot](FEL.png)
+![FEL Plot](FEL_plot.png)
